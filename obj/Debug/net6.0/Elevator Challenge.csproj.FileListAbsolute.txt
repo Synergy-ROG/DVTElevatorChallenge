@@ -1,0 +1,15 @@
+C:\Users\Kills\source\repos\Elevator Challenge\bin\Debug\net6.0\Elevator Challenge.exe
+C:\Users\Kills\source\repos\Elevator Challenge\bin\Debug\net6.0\Elevator Challenge.deps.json
+C:\Users\Kills\source\repos\Elevator Challenge\bin\Debug\net6.0\Elevator Challenge.runtimeconfig.json
+C:\Users\Kills\source\repos\Elevator Challenge\bin\Debug\net6.0\Elevator Challenge.dll
+C:\Users\Kills\source\repos\Elevator Challenge\bin\Debug\net6.0\Elevator Challenge.pdb
+C:\Users\Kills\source\repos\Elevator Challenge\obj\Debug\net6.0\Elevator Challenge.csproj.AssemblyReference.cache
+C:\Users\Kills\source\repos\Elevator Challenge\obj\Debug\net6.0\Elevator Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kills\source\repos\Elevator Challenge\obj\Debug\net6.0\Elevator Challenge.AssemblyInfoInputs.cache
+C:\Users\Kills\source\repos\Elevator Challenge\obj\Debug\net6.0\Elevator Challenge.AssemblyInfo.cs
+C:\Users\Kills\source\repos\Elevator Challenge\obj\Debug\net6.0\Elevator Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Kills\source\repos\Elevator Challenge\obj\Debug\net6.0\Elevator Challenge.dll
+C:\Users\Kills\source\repos\Elevator Challenge\obj\Debug\net6.0\refint\Elevator Challenge.dll
+C:\Users\Kills\source\repos\Elevator Challenge\obj\Debug\net6.0\Elevator Challenge.pdb
+C:\Users\Kills\source\repos\Elevator Challenge\obj\Debug\net6.0\Elevator Challenge.genruntimeconfig.cache
+C:\Users\Kills\source\repos\Elevator Challenge\obj\Debug\net6.0\ref\Elevator Challenge.dll
